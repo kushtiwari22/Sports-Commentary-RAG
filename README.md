@@ -1,4 +1,4 @@
-# 🏏 Cricket AI — Live Commentary & Agentic Sports Chatbot
+#  Cricket AI — Live Commentary & Agentic Sports Chatbot
 
 This project combines a live cricket commentary system with a sports question-answering chatbot.
 
